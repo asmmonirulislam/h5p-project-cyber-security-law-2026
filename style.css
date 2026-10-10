@@ -136,6 +136,10 @@ body {
   font-weight: 500;
 }
 
+.h5p-slot-title {
+  margin: 50px 10px 30px 10px;
+}
+
 .h5p-slot {
   width: 100%;
   height: 350px; 
@@ -161,6 +165,24 @@ body {
 .h5p-slot.part1 {
   height: 400px;
 }
+
+/*.........................part2....................... */
+
+
+.h5p-slot.part2 {
+  height: 600px;
+}
+
+/*.........................part3....................... */
+
+.h5p-slot.part3 {
+  height: 1200px;
+}
+
+
+
+
+
 
 /* button + hint at the very end of the module */
 .slide-footer {
